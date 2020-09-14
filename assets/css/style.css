@@ -1,3 +1,5 @@
+/*These settings effect the entire page*/
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,6 +9,9 @@
 body {
     background-color: #d9dcd6;
 }
+
+
+/*This is the 'header & nav' section of the page*/
 
 header {
     padding: 20px 20px 20px 20px;
@@ -52,7 +57,10 @@ a {
     background-position: center;
 }
 
-section {
+
+/*This is the 'main' section of the page*/
+
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -90,6 +98,9 @@ article h2 {
     margin-left: 25px;
 }
 
+
+/*This is the 'Aside' section of the page*/
+
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -117,6 +128,9 @@ aside img {
     margin: 10px auto;
     max-width: 150px;
 }
+
+
+/*This is the 'Footer' section of the page*/
 
 footer {
     padding: 30px;
