@@ -2,7 +2,7 @@
 
 ### This is the link to the GitHub Repo
 
-https://github.com/Martank949/Homework-1
+https://github.com/Martank949/Practice-Website
 
 [![License](https://img.shields.io/badge/License-Apache-blue.svg "License Badge")]
 
